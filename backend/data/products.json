@@ -1,0 +1,408 @@
+[
+  {
+    "id": "laptop-1",
+    "name": "Asus ROG Zephyrus G14 (2024)",
+    "category": "laptop",
+    "brand": "Asus",
+    "price": 145000,
+    "rating": 4.8,
+    "image_url": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=600&auto=format&fit=crop&q=60",
+    "specs": {
+      "CPU": "AMD Ryzen 9 8945HS",
+      "RAM": "16GB LPDDR5X",
+      "Storage": "1TB PCIe 4.0 NVMe SSD",
+      "GPU": "NVIDIA GeForce RTX 4060 (8GB)",
+      "Display": "14-inch 2.8K 120Hz OLED",
+      "Weight": "1.5 kg",
+      "Battery": "73Whr"
+    },
+    "historical_prices": [155000, 152000, 149000, 145000]
+  },
+  {
+    "id": "laptop-2",
+    "name": "Lenovo IdeaPad Slim 3",
+    "category": "laptop",
+    "brand": "Lenovo",
+    "price": 38000,
+    "rating": 4.1,
+    "image_url": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=600&auto=format&fit=crop&q=60",
+    "specs": {
+      "CPU": "Intel Core i3-1215U",
+      "RAM": "8GB DDR4",
+      "Storage": "512GB NVMe SSD",
+      "GPU": "Intel UHD Graphics",
+      "Display": "15.6-inch Full HD IPS",
+      "Weight": "1.63 kg",
+      "Battery": "45Whr"
+    },
+    "historical_prices": [37000, 37500, 38500, 38000]
+  },
+  {
+    "id": "laptop-3",
+    "name": "Acer Swift Go 14 OLED",
+    "category": "laptop",
+    "brand": "Acer",
+    "price": 65000,
+    "rating": 4.4,
+    "image_url": "https://images.unsplash.com/photo-1496181130204-755241544e35?w=600&auto=format&fit=crop&q=60",
+    "specs": {
+      "CPU": "Intel Core i5-13500H",
+      "RAM": "16GB LPDDR5",
+      "Storage": "512GB PCIe Gen 4 SSD",
+      "GPU": "Intel Iris Xe Graphics",
+      "Display": "14-inch 2.8K 90Hz OLED",
+      "Weight": "1.25 kg",
+      "Battery": "65Whr"
+    },
+    "historical_prices": [69999, 68000, 66000, 65000]
+  },
+  {
+    "id": "laptop-4",
+    "name": "Apple MacBook Air M2",
+    "category": "laptop",
+    "brand": "Apple",
+    "price": 85000,
+    "rating": 4.7,
+    "image_url": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600&auto=format&fit=crop&q=60",
+    "specs": {
+      "CPU": "Apple M2 (8-core CPU, 8-core GPU)",
+      "RAM": "8GB Unified Memory",
+      "Storage": "256GB SSD",
+      "GPU": "Integrated Apple GPU",
+      "Display": "13.6-inch Liquid Retina",
+      "Weight": "1.24 kg",
+      "Battery": "Up to 18 hours"
+    },
+    "historical_prices": [95000, 92000, 89000, 85000]
+  },
+  {
+    "id": "laptop-5",
+    "name": "HP Victus 16 Gaming",
+    "category": "laptop",
+    "brand": "HP",
+    "price": 68000,
+    "rating": 4.3,
+    "image_url": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=600&auto=format&fit=crop&q=60",
+    "specs": {
+      "CPU": "AMD Ryzen 5 5600H",
+      "RAM": "16GB DDR4",
+      "Storage": "512GB PCIe NVMe SSD",
+      "GPU": "NVIDIA GeForce RTX 3050 (4GB)",
+      "Display": "16.1-inch FHD 144Hz IPS",
+      "Weight": "2.46 kg",
+      "Battery": "70Whr"
+    },
+    "historical_prices": [67000, 67500, 68000, 68000]
+  },
+  {
+    "id": "monitor-1",
+    "name": "LG Ultrawide 29WP500",
+    "category": "monitor",
+    "brand": "LG",
+    "price": 18000,
+    "rating": 4.3,
+    "image_url": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=600&auto=format&fit=crop&q=60",
+    "specs": {
+      "Size": "29-inch 21:9 Ultrawide",
+      "Resolution": "2560 x 1080",
+      "Panel": "IPS",
+      "Refresh Rate": "75Hz",
+      "Ports": "2x HDMI, Headphone Out",
+      "Features": "HDR10, AMD FreeSync"
+    },
+    "historical_prices": [19500, 19000, 18500, 18000]
+  },
+  {
+    "id": "monitor-2",
+    "name": "Gigabyte G24F 2 Gaming",
+    "category": "monitor",
+    "brand": "Gigabyte",
+    "price": 12500,
+    "rating": 4.5,
+    "image_url": "https://images.unsplash.com/photo-1547119957-637f8679db1e?w=600&auto=format&fit=crop&q=60",
+    "specs": {
+      "Size": "23.8-inch",
+      "Resolution": "1920 x 1080 (FHD)",
+      "Panel": "Super Speed IPS",
+      "Refresh Rate": "165Hz (OC 180Hz)",
+      "Ports": "2x HDMI 2.0, 1x DP 1.2, USB Hub",
+      "Features": "125% sRGB, Height Adjustable"
+    },
+    "historical_prices": [13500, 13000, 12800, 12500]
+  },
+  {
+    "id": "monitor-3",
+    "name": "Samsung ViewFinity S6 (S34A650)",
+    "category": "monitor",
+    "brand": "Samsung",
+    "price": 28000,
+    "rating": 4.4,
+    "image_url": "https://images.unsplash.com/photo-1551645121-d1034da75057?w=600&auto=format&fit=crop&q=60",
+    "specs": {
+      "Size": "34-inch Ultra-WQHD Curved",
+      "Resolution": "3440 x 1440",
+      "Panel": "VA (1000R Curve)",
+      "Refresh Rate": "100Hz",
+      "Ports": "HDMI, DP, USB-C (90W Charging), LAN",
+      "Features": "HDR10, Built-in KVM Switch"
+    },
+    "historical_prices": [31000, 30000, 29000, 28000]
+  },
+  {
+    "id": "keyboard-1",
+    "name": "Keychron K2 V2 Mechanical Keyboard",
+    "category": "keyboard",
+    "brand": "Keychron",
+    "price": 7500,
+    "rating": 4.7,
+    "image_url": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=600&auto=format&fit=crop&q=60",
+    "specs": {
+      "Layout": "75% Compact (84 keys)",
+      "Switches": "Gateron G Pro Brown (Tactile)",
+      "Connectivity": "Bluetooth 5.1 / Wired Type-C",
+      "Backlight": "RGB Backlight (18 types)",
+      "Battery": "4000mAh (Up to 240 hours)",
+      "OS Support": "macOS/Windows/Android/iOS"
+    },
+    "historical_prices": [7500, 7500, 7500, 7500]
+  },
+  {
+    "id": "keyboard-2",
+    "name": "Redragon K552 Kumara RGB",
+    "category": "keyboard",
+    "brand": "Redragon",
+    "price": 2800,
+    "rating": 4.2,
+    "image_url": "https://images.unsplash.com/photo-1595225476474-87563907a212?w=600&auto=format&fit=crop&q=60",
+    "specs": {
+      "Layout": "TKL (Tenkeyless)",
+      "Switches": "Outemu Blue (Clicky)",
+      "Connectivity": "Wired USB",
+      "Backlight": "RGB LED Custom",
+      "Features": "Metal-ABS Construction, Splash-Proof"
+    },
+    "historical_prices": [2999, 2899, 2800, 2800]
+  },
+  {
+    "id": "keyboard-3",
+    "name": "Logitech MX Keys S",
+    "category": "keyboard",
+    "brand": "Logitech",
+    "price": 11500,
+    "rating": 4.6,
+    "image_url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&auto=format&fit=crop&q=60",
+    "specs": {
+      "Layout": "Full size",
+      "Switches": "Spherically-dished Membrane",
+      "Connectivity": "Bluetooth / Logi Bolt Receiver",
+      "Backlight": "Smart Illumination Proximity Sensors",
+      "Battery": "Rechargeable Li-Po (Up to 5 months off)"
+    },
+    "historical_prices": [11995, 11500, 11500, 11500]
+  },
+  {
+    "id": "mouse-1",
+    "name": "Logitech MX Master 3S",
+    "category": "mouse",
+    "brand": "Logitech",
+    "price": 9500,
+    "rating": 4.8,
+    "image_url": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=600&auto=format&fit=crop&q=60",
+    "specs": {
+      "Sensor": "Darkfield High Precision (8000 DPI)",
+      "Buttons": "7 customizable buttons, gesture button",
+      "Scroll": "MagSpeed Electromagnetic scroll wheel",
+      "Connectivity": "Bluetooth / Logi Bolt Receiver",
+      "Battery": "USB-C Quick Charge (Up to 70 days)"
+    },
+    "historical_prices": [9999, 9999, 9700, 9500]
+  },
+  {
+    "id": "mouse-2",
+    "name": "Razer DeathAdder Essential",
+    "category": "mouse",
+    "brand": "Razer",
+    "price": 1400,
+    "rating": 4.3,
+    "image_url": "https://images.unsplash.com/photo-1625600243103-1dc6824c6c8a?w=600&auto=format&fit=crop&q=60",
+    "specs": {
+      "Sensor": "Optical 6400 DPI",
+      "Buttons": "5 hyperesponse buttons",
+      "Durability": "Up to 10 Million Clicks",
+      "Connectivity": "Wired (1.8m Cable)",
+      "Ergonomics": "Right-handed classic design"
+    },
+    "historical_prices": [1599, 1499, 1450, 1400]
+  },
+  {
+    "id": "mouse-3",
+    "name": "Logitech G304 Lightspeed Wireless",
+    "category": "mouse",
+    "brand": "Logitech",
+    "price": 2900,
+    "rating": 4.5,
+    "image_url": "https://images.unsplash.com/photo-1629429408209-1f912961dbd8?w=600&auto=format&fit=crop&q=60",
+    "specs": {
+      "Sensor": "HERO Sensor (12000 DPI)",
+      "Connectivity": "Lightspeed Wireless USB Dongle",
+      "Battery Life": "250 hours (1x AA Battery)",
+      "Weight": "99 g (ultra-lightweight)",
+      "Buttons": "6 programmable buttons"
+    },
+    "historical_prices": [3299, 3100, 2999, 2900]
+  },
+  {
+    "id": "phone-1",
+    "name": "Samsung Galaxy S23 5G",
+    "category": "phone",
+    "brand": "Samsung",
+    "price": 54000,
+    "rating": 4.6,
+    "image_url": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=600&auto=format&fit=crop&q=60",
+    "specs": {
+      "Processor": "Snapdragon 8 Gen 2 for Galaxy",
+      "RAM/Storage": "8GB LPDDR5X / 128GB UFS 3.1",
+      "Display": "6.1-inch FHD+ Dynamic AMOLED 2X 120Hz",
+      "Camera": "50MP Main + 12MP Ultra-wide + 10MP Telephoto (3x)",
+      "Battery": "3900mAh (25W Charging)"
+    },
+    "historical_prices": [64999, 59999, 56000, 54000]
+  },
+  {
+    "id": "phone-2",
+    "name": "OnePlus 11R 5G",
+    "category": "phone",
+    "brand": "OnePlus",
+    "price": 38000,
+    "rating": 4.4,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600&auto=format&fit=crop&q=60",
+    "specs": {
+      "Processor": "Snapdragon 8+ Gen 1",
+      "RAM/Storage": "8GB LPDDR5X / 128GB UFS 3.1",
+      "Display": "6.74-inch 120Hz Super Fluid AMOLED",
+      "Camera": "50MP Sony IMX890 + 8MP Ultra-wide + 2MP Macro",
+      "Battery": "5000mAh (100W SUPERVOOC Charging)"
+    },
+    "historical_prices": [39999, 38999, 38000, 38000]
+  },
+  {
+    "id": "phone-3",
+    "name": "Redmi Note 13 Pro 5G",
+    "category": "phone",
+    "brand": "Xiaomi",
+    "price": 25000,
+    "rating": 4.3,
+    "image_url": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&auto=format&fit=crop&q=60",
+    "specs": {
+      "Processor": "Snapdragon 7s Gen 2",
+      "RAM/Storage": "8GB LPDDR4X / 256GB UFS 2.2",
+      "Display": "6.67-inch 1.5K AMOLED 120Hz",
+      "Camera": "200MP Main OIS + 8MP Ultra-wide + 2MP Macro",
+      "Battery": "5100mAh (67W Turbo Charging)"
+    },
+    "historical_prices": [25999, 25999, 25000, 25000]
+  },
+  {
+    "id": "phone-4",
+    "name": "Nothing Phone (2a)",
+    "category": "phone",
+    "brand": "Nothing",
+    "price": 23999,
+    "rating": 4.5,
+    "image_url": "https://images.unsplash.com/photo-1565630916779-e303be97b6f5?w=600&auto=format&fit=crop&q=60",
+    "specs": {
+      "Processor": "MediaTek Dimensity 7200 Pro",
+      "RAM/Storage": "8GB LPDDR4X / 128GB UFS 2.2",
+      "Display": "6.7-inch Flexible AMOLED 120Hz",
+      "Camera": "50MP Main OIS + 50MP Ultra-wide",
+      "Battery": "5000mAh (45W Fast Charging)",
+      "OS": "Nothing OS 2.5 (Clean, No Bloatware)"
+    },
+    "historical_prices": [23999, 23999, 23999, 23999]
+  },
+  {
+    "id": "phone-5",
+    "name": "Apple iPhone 15 Pro",
+    "category": "phone",
+    "brand": "Apple",
+    "price": 119000,
+    "rating": 4.8,
+    "image_url": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=600&auto=format&fit=crop&q=60",
+    "specs": {
+      "Processor": "A17 Pro Chip (3nm)",
+      "RAM/Storage": "8GB / 128GB NVMe",
+      "Display": "6.1-inch Super Retina XDR OLED 120Hz LTPO",
+      "Camera": "48MP Main + 12MP Ultra-wide + 12MP 3x Telephoto",
+      "Battery": "3274mAh (20W USB-C 3.0)"
+    },
+    "historical_prices": [134900, 129900, 124900, 119000]
+  },
+  {
+    "id": "earbuds-1",
+    "name": "Sony WF-1000XM5 ANC",
+    "category": "earbuds",
+    "brand": "Sony",
+    "price": 22000,
+    "rating": 4.7,
+    "image_url": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&auto=format&fit=crop&q=60",
+    "specs": {
+      "ANC": "Integrated V2 Processor (Dual Feedback Mic)",
+      "Battery Life": "8h continuous (24h total with case)",
+      "Codecs": "LDAC, AAC, SBC (Hi-Res Wireless)",
+      "Driver": "8.4mm Dynamic Driver X",
+      "Features": "Bone conduction sensors, Speak-to-Chat"
+    },
+    "historical_prices": [24999, 23500, 22999, 22000]
+  },
+  {
+    "id": "earbuds-2",
+    "name": "Realme Buds Air 5 Pro",
+    "category": "earbuds",
+    "brand": "Realme",
+    "price": 4999,
+    "rating": 4.4,
+    "image_url": "https://images.unsplash.com/photo-1608156639585-b3a032ef9689?w=600&auto=format&fit=crop&q=60",
+    "specs": {
+      "ANC": "Yes (50dB Smart Active Noise Cancellation)",
+      "Battery Life": "11h continuous (40h total with case)",
+      "Codecs": "LDAC, AAC, SBC",
+      "Driver": "11mm bass driver + 6mm micro-planar tweeter",
+      "Features": "360 Spatial Audio, 40ms low latency"
+    },
+    "historical_prices": [4499, 4699, 4799, 4999]
+  },
+  {
+    "id": "earbuds-3",
+    "name": "OnePlus Buds 3",
+    "category": "earbuds",
+    "brand": "OnePlus",
+    "price": 5499,
+    "rating": 4.5,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&auto=format&fit=crop&q=60",
+    "specs": {
+      "ANC": "Yes (49dB Smart Adaptive Noise Cancellation)",
+      "Battery Life": "10h continuous (44h total with case)",
+      "Codecs": "LHDC 5.0, AAC, SBC",
+      "Driver": "10.4mm woofer + 6mm tweeter dual drivers",
+      "Features": "3D Audio, Slide volume control, Fast charge"
+    },
+    "historical_prices": [5499, 5499, 5499, 5499]
+  },
+  {
+    "id": "earbuds-4",
+    "name": "boAt Airdopes 141 Zen",
+    "category": "earbuds",
+    "brand": "boAt",
+    "price": 1299,
+    "rating": 3.9,
+    "image_url": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=600&auto=format&fit=crop&q=60",
+    "specs": {
+      "ANC": "No (ENx quad mics for environmental call noise cancel)",
+      "Battery Life": "6h continuous (80h total with case)",
+      "Codecs": "SBC, AAC",
+      "Driver": "8mm drivers",
+      "Features": "ASAP Fast Charge (5 min = 75 min), IPX5 Sweat Resist"
+    },
+    "historical_prices": [1499, 1399, 1299, 1299]
+  }
+]

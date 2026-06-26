@@ -1,0 +1,362 @@
+[
+  {
+    "id": "rev-1",
+    "product_id": "laptop-1",
+    "user_name": "Rohan Sharma",
+    "rating": 5,
+    "comment": "Absolutely incredible performance! The Ryzen 9 handles massive code compilations and PyTorch models without breaking a sweat. The OLED screen is stunningly vibrant and color accurate. Build quality rivals the MacBook Pro. Best purchase I've made this year.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-2",
+    "product_id": "laptop-1",
+    "user_name": "Aanya Patel",
+    "rating": 4,
+    "comment": "Super lightweight and great gaming/development performance. My only complaint is that it runs quite hot under heavy load, and the fans can get very loud. Battery life is decent but not exceptional (about 6 hours of coding).",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-3",
+    "product_id": "laptop-1",
+    "user_name": "Vikram Sen",
+    "rating": 5,
+    "comment": "The perfect balance of portability and power. Having a dedicated RTX 4060 in a 14-inch form factor is a game-changer. The keyboard has great travel and is very satisfying to type on. Worth every rupee.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-4",
+    "product_id": "laptop-2",
+    "user_name": "Karan Gupta",
+    "rating": 4,
+    "comment": "Decent laptop for basic office work, browsing, and watching videos. Keyboard is comfortable. Don't expect to run heavy games or do video editing, as it lags. Good value for money.",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "rev-5",
+    "product_id": "laptop-2",
+    "user_name": "Sneha Roy",
+    "rating": 3,
+    "comment": "Build quality is entirely plastic and feels a bit cheap. The display is washed out and has bad viewing angles. Performance is fine for zoom meetings and word documents, but it struggles with too many Chrome tabs open.",
+    "sentiment": "negative"
+  },
+  {
+    "id": "rev-6",
+    "product_id": "laptop-2",
+    "user_name": "Rahul Verma",
+    "rating": 5,
+    "comment": "Got it for my parents. They love it. Great screen size, boots up quickly thanks to the SSD, and battery lasts a good 5 hours. Under 40k, this is a solid buy.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-7",
+    "product_id": "laptop-3",
+    "user_name": "Neha Joshi",
+    "rating": 5,
+    "comment": "Incredible value! An OLED display at 65k is unheard of. The screen is gorgeous, colors pop, and 90Hz makes everything smooth. Excellent for programing and daily tasks. Nice battery backup too.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-8",
+    "product_id": "laptop-3",
+    "user_name": "Aditya Rao",
+    "rating": 4,
+    "comment": "Fast processor and plenty of RAM (16GB). Very thin and light, easy to carry. The webcam is clear for meetings. However, the speakers are quite weak and sound tinny.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-9",
+    "product_id": "laptop-3",
+    "user_name": "Amit Das",
+    "rating": 4,
+    "comment": "Performance is top-tier for coding. The trackpad is nice and large. It does get a bit warm near the keyboard area, but nothing too bad. Charges quickly via USB-C.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-10",
+    "product_id": "laptop-4",
+    "user_name": "Priyanka Nair",
+    "rating": 5,
+    "comment": "The best laptop for productivity. Battery life is legendary—easily lasts 15+ hours on a single charge. It is completely silent since there are no fans. macOS is smooth as butter.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-11",
+    "product_id": "laptop-4",
+    "user_name": "Rajiv Kumar",
+    "rating": 4,
+    "comment": "The display, speakers, and trackpad are unmatched. However, 8GB of RAM in 2024 is disappointing at this price. If you do heavy coding or Docker containers, it swaps to SSD and slows down. Storage is also tiny (256GB).",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "rev-12",
+    "product_id": "laptop-4",
+    "user_name": "Deepa Balan",
+    "rating": 5,
+    "comment": "Lightweight, premium finish, gorgeous Midnight color. It handles basic coding, office work, and editing effortlessly. Highly recommended if you want reliability and battery life.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-13",
+    "product_id": "laptop-5",
+    "user_name": "Siddharth Jain",
+    "rating": 4,
+    "comment": "Excellent budget gaming laptop. Plays modern games at medium-high settings smoothly. The 144Hz screen is great for shooters. The main drawback is the bulky design and very heavy charging brick.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-14",
+    "product_id": "laptop-5",
+    "user_name": "Tanvi Shah",
+    "rating": 4,
+    "comment": "Decent power for 3D modeling and programming. The keyboard is comfortable with a numpad. Battery life is very poor, lasts only 3 hours when not plugged in. Build is plastic and has some screen flex.",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "rev-15",
+    "product_id": "monitor-1",
+    "user_name": "Manish Malhotra",
+    "rating": 4,
+    "comment": "Excellent ultrawide monitor for productivity. I can easily split-screen two full windows. Colors are good for coding and spreadsheets. The stand is a bit basic and only tilts, no height adjustment.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-16",
+    "product_id": "monitor-1",
+    "user_name": "Divya Teja",
+    "rating": 3,
+    "comment": "The screen width is great, but the vertical resolution is a bit low (1080p). Up close, text looks slightly pixelated. The built-in speakers are non-existent, just a headphone out. Decent budget buy, but keep expectations low.",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "rev-17",
+    "product_id": "monitor-2",
+    "user_name": "Sumit Goel",
+    "rating": 5,
+    "comment": "Absolute beast for gaming! 165Hz makes everything look fluid. Contrast is good, and it has no ghosting. The height adjustable stand is a massive plus at this price range. Very satisfied.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-18",
+    "product_id": "monitor-2",
+    "user_name": "Varun Malhotra",
+    "rating": 4,
+    "comment": "A great, affordable IPS monitor. Color accuracy is decent enough for amateur photo editing. Screen is bright. One minor issue is a small amount of IPS glow in the bottom corners, but only visible on dark screens.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-19",
+    "product_id": "monitor-3",
+    "user_name": "Kavita Rao",
+    "rating": 5,
+    "comment": "A productivity monster! The curved ultrawide screen is incredibly immersive. USB-C single-cable setup charges my laptop (90W) and handles video/USB Hub. High resolution means crisp text. Ideal for programmers.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-20",
+    "product_id": "monitor-3",
+    "user_name": "Arjun Singh",
+    "rating": 4,
+    "comment": "Awesome color and contrast. VA panel black levels are great. KVM switch works well for switching between personal PC and work laptop. The stand takes up a lot of desk space, so mounting on an arm is recommended.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-21",
+    "product_id": "keyboard-1",
+    "user_name": "Nikhil Kamath",
+    "rating": 5,
+    "comment": "My favorite mechanical keyboard. The Gateron Brown switches are perfect—quiet enough for office work but with a nice tactile bump. Bluetooth switching between Mac and iPad is flawless. Heavy and premium build.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-22",
+    "product_id": "keyboard-1",
+    "user_name": "Shreya Ghoshal",
+    "rating": 4,
+    "comment": "Great layout and typing experience. The keyboard is quite thick, so using a wrist rest is highly recommended to avoid strain. Battery life with RGB on is just average, but lasts weeks with it off.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-23",
+    "product_id": "keyboard-2",
+    "user_name": "Abhishek Roy",
+    "rating": 4,
+    "comment": "Outstanding tactile feel. Blue switches are extremely loud and clicky—absolutely do not use this in a shared office! It sounds like a typewriter. RGB lighting is bright and customizable. Solid build.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-24",
+    "product_id": "keyboard-2",
+    "user_name": "Mayank Agarwal",
+    "rating": 3,
+    "comment": "The typing is fine, but the blue switches are way too loud for me. The plastic case has a bit of pinging sound when typing fast. Good for budget gamers, but bad for coders who want peace and quiet.",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "rev-25",
+    "product_id": "keyboard-3",
+    "user_name": "Pooja Hegde",
+    "rating": 5,
+    "comment": "The best membrane keyboard ever made. The keys are indented and feel amazing to type on. Extremely quiet. Smart backlighting is cool. Battery lasts forever. Perfect companion for the MX Master mouse.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-26",
+    "product_id": "mouse-1",
+    "user_name": "Karthik Raja",
+    "rating": 5,
+    "comment": "If you are a programmer or creator, buy this immediately. The thumb scroll wheel is incredible for horizontal timelines or code lines. MagSpeed scroll wheel is legendary. Fits the hand perfectly. Worth every penny.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-27",
+    "product_id": "mouse-1",
+    "user_name": "Ananya Pandey",
+    "rating": 4,
+    "comment": "Very comfortable and high quality. The click is soft and silent. Note that it is quite large, so if you have small hands, it might feel bulky. Charging is super fast, and software customization is detailed.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-28",
+    "product_id": "mouse-2",
+    "user_name": "Ravi Shastri",
+    "rating": 4,
+    "comment": "A budget mouse that gets the job done. Classic shape, fits nicely in the hand. The sensor is accurate for casual gaming and office tasks. Cable is a bit stiff, and it has no extra buttons other than the side ones.",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "rev-29",
+    "product_id": "mouse-3",
+    "user_name": "Gaurav Kapoor",
+    "rating": 5,
+    "comment": "Excellent value wireless gaming mouse. Lightspeed connection has zero latency. Uses a single AA battery which lasts months. Extremely lightweight and sensor is top notch. Best budget wireless mouse.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-30",
+    "product_id": "phone-1",
+    "user_name": "Harish Iyer",
+    "rating": 5,
+    "comment": "Perfect compact flagship. The battery life is surprisingly excellent despite the size. Performance is blazing fast, and the cameras shoot beautiful, natural photos. One UI is very polished.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-31",
+    "product_id": "phone-1",
+    "user_name": "Nisha Kothari",
+    "rating": 4,
+    "comment": "Excellent display and build quality. It does charge a bit slow (only 25W), and they don't include a charger in the box. 128GB base storage is a bit low for a phone this price.",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "rev-32",
+    "product_id": "phone-2",
+    "user_name": "Sunny Leone",
+    "rating": 5,
+    "comment": "Super fast performance and the 100W charging is insane! Goes from 0 to 100% in under 30 minutes. Display is gorgeous and battery easily lasts a day. Camera is great in daylight, average in low light.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-33",
+    "product_id": "phone-2",
+    "user_name": "Arpit Sharma",
+    "rating": 4,
+    "comment": "Premium look and feel. Performance is flagship grade. Alert slider is nice. One complaint is the curved screen makes it hard to find good tempered glass, and has occasional accidental touches.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-34",
+    "product_id": "phone-3",
+    "user_name": "Dinesh Karthik",
+    "rating": 4,
+    "comment": "200MP camera takes insanely detailed shots. Screen is sharp and bright. 67W charging is very fast. The software has a lot of pre-installed bloatware apps and notifications, which is annoying.",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "rev-35",
+    "product_id": "phone-4",
+    "user_name": "Vijay Shekhar",
+    "rating": 5,
+    "comment": "Best software experience under 25k! Nothing OS is beautiful, completely clean, and has cool widgets. The glyph lights are fun. Performance is smooth. Cameras are decent, battery life is solid.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-36",
+    "product_id": "phone-4",
+    "user_name": "Ridhi Dogra",
+    "rating": 4,
+    "comment": "Unique design, stands out. Display is great. Battery charging could be faster, and you have to buy the charger separately. Overall, a great clean alternative to Redmi and Realme.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-37",
+    "product_id": "phone-5",
+    "user_name": "Kabir Bedi",
+    "rating": 5,
+    "comment": "Titanium build feels super premium and light. A17 Pro runs games like console quality. Action button is useful. The cameras are best-in-class, especially for video. Battery life easily lasts all day.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-38",
+    "product_id": "phone-5",
+    "user_name": "Meera Sen",
+    "rating": 4,
+    "comment": "Unbelievable video quality and performance. However, ₹1.2 Lakh is a fortune. It also gets quite warm when charging and gaming. If you are on iPhone 13 or 14, wait, the upgrade isn't massive.",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "rev-39",
+    "product_id": "earbuds-1",
+    "user_name": "Zakir Khan",
+    "rating": 5,
+    "comment": "Best noise cancellation on the market, hands down. Absolute silence in airplanes and trains. Sound quality is rich with punchy bass. The LDAC support makes a huge difference on Android.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-40",
+    "product_id": "earbuds-1",
+    "user_name": "Neeti Mohan",
+    "rating": 4,
+    "comment": "Excellent sound, but the fit is a bit tricky. The foam ear tips are comfortable but wear out fast. Case is nice and small. Call quality is much better than the previous version.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-41",
+    "product_id": "earbuds-2",
+    "user_name": "Jaspreet Singh",
+    "rating": 5,
+    "comment": "Mind-blowing audio quality under 5k! The dual drivers produce crystal clear treble and deep bass. ANC is strong enough to block office noise. LDAC support at this price is a steal.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-42",
+    "product_id": "earbuds-2",
+    "user_name": "Rhea Chakraborty",
+    "rating": 4,
+    "comment": "App controls are detailed. Dual device pairing works smoothly. The white glossy plastic case scratches very easily. Microphone quality in windy situations is only average. Still, best in budget.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-43",
+    "product_id": "earbuds-3",
+    "user_name": "Bhuvan Bam",
+    "rating": 5,
+    "comment": "Very comfortable to wear for hours. Sound tuning is balanced and pleasant. The slide volume control on the stems is super convenient. Fast charging is very helpful. High build quality.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "rev-44",
+    "product_id": "earbuds-4",
+    "user_name": "Slayy Point",
+    "rating": 3,
+    "comment": "Decent for gym workouts as it has a good fit and sweat resistance. Bass is heavy but drowns out vocals. There is no active noise cancellation, only physical isolation. Okay for 1200 rupees, but don't expect premium audio.",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "rev-45",
+    "product_id": "earbuds-4",
+    "user_name": "Carry Minati",
+    "rating": 2,
+    "comment": "Connectivity drops frequently. Audio lag is noticeable when playing games. Call quality is very poor, people can't hear me clearly. Battery life is the only saving grace. Would not recommend.",
+    "sentiment": "negative"
+  }
+]
